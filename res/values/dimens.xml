@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="progress_action_padding">8dp</dimen>
+</resources>
